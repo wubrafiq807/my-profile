@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import SideNavPage from "./components/organisms/SideNavPage.jsx";
 import Home from "./pages/Home.jsx";
 import Work from "./pages/Work.jsx";
+import Contract from "./pages/Contract.jsx";
 import NoPageFound from "./pages/NoPageFound.jsx";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -22,6 +23,7 @@ function App() {
               <Switch>
                 <Route path="/" exact component={Home} />
                 <Route exact path="/work" component={Work} />
+                <Route exact path="/contract" component={Contract} />
                 <Route component={NoPageFound} />
               </Switch>
             </Col>
