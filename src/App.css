@@ -7,10 +7,10 @@
   pointer-events: none;
 }
 .tertiary-color {
-    color: #39dcf1;
+  color: #39dcf1;
 }
 .secondary-color {
-    color: #f3373b;
+  color: #f3373b;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -42,6 +42,6 @@
     transform: rotate(360deg);
   }
 }
-.padding-top{
-padding-top: 46px;
+.padding-top {
+  padding-top: 46px;
 }
