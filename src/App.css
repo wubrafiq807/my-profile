@@ -45,3 +45,22 @@
 .padding-top {
   padding-top: 46px;
 }
+.menu-link-item :hover {
+  color: #39dcf1;
+  padding-left: 25px;
+}
+.menu-link-item:link {
+  text-decoration: none !important;
+}
+.menu-link-item {
+  font-family: Dosis, sans-serif;
+  font-weight: 600;
+  color: #4e4e4e;
+  display: block;
+  -moz-transition: padding-left 0.3s ease-in;
+  -o-transition: padding-left 0.3s ease-in;
+  -webkit-transition: padding-left 0.3s ease-in;
+  transition: padding-left 0.3s ease-in;
+  position: relative;
+  left: 0;
+}
