@@ -68,7 +68,7 @@ class Work extends React.Component {
           image: wireHouse,
         },
         {
-          heading: "Parole Management System(PRMS)",
+          heading: "Payroll Management System(PRMS)",
           itemDescription:
             "The PRMS is developed  for synergy Inc that’s manage employee monthly salary and others salary related issues",
           itemTools: "PHP, JavaScrpt, Mysql",
@@ -89,7 +89,7 @@ class Work extends React.Component {
           image: smartScooter,
         },
       ],
-    };
+    }
   }
 
   render() {
