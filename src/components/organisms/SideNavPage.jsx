@@ -25,6 +25,9 @@ export default class SideNavPage extends React.Component {
         <Link to="/work" className="menu-link-item">
           <ListGroup.Item className="text-left">WORk</ListGroup.Item>
         </Link>
+        <Link to="/skills" className="menu-link-item">
+          <ListGroup.Item className="text-left">SKILLS</ListGroup.Item>
+        </Link>
         <Link to="/achievement" className="menu-link-item">
           <ListGroup.Item className="text-left">ACHIEVEMENT</ListGroup.Item>
         </Link>

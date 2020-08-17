@@ -89,7 +89,7 @@ class Work extends React.Component {
           image: smartScooter,
         },
       ],
-    }
+    };
   }
 
   render() {
@@ -101,8 +101,8 @@ class Work extends React.Component {
       <Container>
         <h1>Work</h1>
         <p>
-          (<strong style={style}>in progress</strong> - but here are few of
-          the projects I've worked on)
+          (<strong style={style}>in progress</strong> - but here are few of the
+          projects I've worked on)
         </p>
         {this.state.workedListItem.map((person) => (
           <Articleitem
