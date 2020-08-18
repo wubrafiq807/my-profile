@@ -12,7 +12,26 @@
 .secondary-color {
   color: #f3373b;
 }
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 1224px) {
+  .custom-content {
+    padding-top: 80px;
+  }
+}
 
+/* Large screens ----------- */
+@media only screen and (min-width: 1824px) {
+  .custom-content {
+    padding-top: 80px;
+  }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .custom-content {
+    padding-top: 80px;
+  }
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -531,8 +550,8 @@ template {
 }
 
 html {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
   font-size: 100%;
 }
 
@@ -3067,8 +3086,8 @@ a:active {
 }
 
 * {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
 }
 
 .main-content {
@@ -3078,4 +3097,9 @@ a:active {
   .main-content {
     padding-top: 75px;
   }
+}
+*,
+::after,
+::before {
+  box-sizing: content-box;
 }

@@ -21,7 +21,7 @@ function App() {
             <Col lg="3">
               <SideNavPage />
             </Col>
-            <Col>
+            <Col className="custom-content">
               <Switch>
                 <Route path="/" exact component={Home} />
                 <Route exact path="/work" component={Work} />
