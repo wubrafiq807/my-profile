@@ -1,9 +1,6 @@
 import React from "react";
 
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 import Container from "react-bootstrap/Container";
-import Card from "react-bootstrap/Card";
 import "../asstes/css/components/ArticleListItem/ArticleListItem.css";
 import Articleitem from "../components/organisms/ArticleItem.jsx";
 import whiteBox from "../asstes/img/whitebox-2.png";

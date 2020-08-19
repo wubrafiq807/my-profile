@@ -23,6 +23,7 @@ const Skills = () => (
       <li>WRM (Hibernate, Doma2, Laravel ORM)</li>
       <li>Version control GIT/SVN</li>
       <li>TDD, BDD, DDD, CI/CD development</li>
+      <li>Data Structure, Algorithms</li>
       <li>
         Linux, windows, Unix, Apache, apache tomcat, Docker, AWS web service,
         Maven

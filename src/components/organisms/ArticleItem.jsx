@@ -1,8 +1,5 @@
 import React, { Component } from "react";
 import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Container from "react-bootstrap/Container";
-import Card from "react-bootstrap/Card";
 
 class ArticleItem extends Component {
   render() {

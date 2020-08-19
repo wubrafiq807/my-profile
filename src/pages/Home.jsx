@@ -8,7 +8,7 @@ const Home = () => (
       <span className="intro-text">Hello, My name is Md Rafiqul Islam</span>
       <span className="intro-copy">
         I'm a Full-Stack Developer(JavaScript,PHP,java,Python). I have over 4
-        years experience developing web and mobile application. I love building
+        years developing experience on web and mobile application. I love building
         unique, efficient site and passionate about writing clean code.
       </span>
     </p>

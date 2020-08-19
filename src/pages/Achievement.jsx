@@ -1,12 +1,10 @@
 import React from "react";
-import ListGroup from "react-bootstrap/ListGroup";
 import Card from "react-bootstrap/Card";
 import istvn from "../asstes/img/istvn.jpg";
 import connective from "../asstes/img/connective.jpg";
 import smartscooter from "../asstes/img/smartscooter.jpg";
 import synergyInc from "../asstes/img/synergyInc.png";
 import rssoftware from "../asstes/img/rssoftware.png";
-import Carousel from "react-bootstrap/Carousel";
 
 const Achievement = () => (
   <div>
