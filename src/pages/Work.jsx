@@ -21,9 +21,9 @@ class Work extends React.Component {
         {
           heading: "White Box ",
           itemDescription:
-            "It is a cloud sales support tool that you can hire yourself to find the people you want . A japanese IT engineers recruitment's system.Where partner company and Sier(System integrator ) company can share engineers and projects. From the engineers who belong to our company and our partner companies, the White Box allows you to find the engineer you want right away and grasp the operating status, so you can lighten the burden of work and shift to more planned SES work.",
+            "It is a cloud sales support tool that you can hire IT engineer you want . A japanese IT engineers recruitment's system.Where partner company and Sier(System integrator ) company can share engineers and projects. From the engineers who belong to Sier company and  partner companies, the White Box allows you to find the engineer you want right away and grasp the operating status, so you can lighten the burden of work and shift to more planned SES work.",
           itemTools:
-            "Java 11, Spring(boot), Mysql, Vuejs, NuxtJS, Buefy, Bulma, Docker, Redis",
+            "Java 11, Spring(boot), Mysql, Vuejs, NuxtJS, Buefy, Bulma, Docker, Redis, AWS",
           image: whiteBox,
         },
         {
@@ -38,7 +38,7 @@ class Work extends React.Component {
           heading: "IST-Weekly Report System",
           itemDescription:
             "developed  for information strategy and technology co. ltd (IST) .It has include with some modules and features like create weekly or daily report ,send weekly status report as mail function, preview weekly report  and some setting related function like user management, holiday settings etc .Those functions or modules enables  manager to track IST employees weekly status report ",
-          itemTools: "PHP, Laravel, JavaScript, Mysql ",
+          itemTools: "PHP, Laravel, JavaScript, Mysql, AWS",
           image: weeklyReport,
         },
         {
@@ -59,7 +59,7 @@ class Work extends React.Component {
         {
           heading: "Ware House Management tool (WMS) ",
           itemDescription:
-            "It is a cloud sales support tool that you can hire yourself to find the people you want . A japanese IT engineers recruitment's system.Where partner company and Sier(System integrator ) company can share engineers and projects. From the engineers who belong to our company and our partner companies, the White Box allows you to find the engineer you want right away and grasp the operating status, so you can lighten the burden of work and shift to more planned SES work.",
+            "Ware House Management tool (WMS) is developed for Synergy Inc that`s manage the company product stocks.",
           itemTools:
             "Java, Spring MVC framework, Hibernate, Mysql  and JavaScript ",
           image: wireHouse,
@@ -74,7 +74,7 @@ class Work extends React.Component {
         {
           heading: "Fryer System Management Tools ",
           itemDescription:
-            "Fryer System Management Tools for Restaurant. Developed for  web,Android(AIONIC),IOS (AIONIC) . My  role is design and development  life cycle of this tools, leading the team, developing the JSON API with php Laravel",
+            "Fryer System Management Tools for Restaurant. Developed for  web,Android(AIONIC),IOS (AIONIC) . My  role is design and development  life cycle of this tools, leading the team, developing the JSON API with php Codeigniter",
           itemTools: "PHP, Codeigniter, Anjular JS, Mysql ",
           image: fryer,
         },
