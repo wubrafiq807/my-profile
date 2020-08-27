@@ -14,11 +14,10 @@ const Achievement = () => (
       <Card.Body>
         <Card.Text>
           Helped Information strategy and technology Vietnam-ISTVN transform
-          from startup to scaleup by integrating industry standards code
-          quality, testing, QA, deployment, SEO, performance and splitting a
-          large monolith application to multiple microservices, modules that
-          improved the company business and make the company more customer
-          focused.
+          from startup to scale up by integrating industry standards code
+          quality, testing, QA, deployment, performance and developed
+          microservices, modules that improved the company business and make the
+          company more customer focused.
         </Card.Text>
       </Card.Body>
       <Card.Img variant="bottom" src={istvn} />

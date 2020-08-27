@@ -9,7 +9,11 @@ const Contract = () => (
     <h2 className="h3 text-center">Lets keep in touch:</h2>
     <ul className="keep-in-touch__links">
       <li className="keep-in-touch-link">
-        <a href="mailto:wubrafiqcse807@gmail.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="mailto:wubrafiqcse807@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img src={email} alt="email" />
           <span>Email</span>
         </a>
@@ -25,13 +29,21 @@ const Contract = () => (
         </a>
       </li>
       <li className="keep-in-touch-link">
-        <a href="https://github.com/wubrafiq807" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/wubrafiq807"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img src={github} alt="github" />
           <span>Github</span>
         </a>
       </li>
       <li className="keep-in-touch-link">
-        <a href="https://twitter.com/Rafiqul06600940" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://twitter.com/Rafiqul06600940"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img src={twitter} alt="twitter" />
           <span>Twitter</span>
         </a>
