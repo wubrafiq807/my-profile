@@ -33,7 +33,7 @@ const Skills = () => (
       <li>Agile development</li>
       <li>Caching/message broker Redis</li>
       <li>
-        Able to architect modular, Flux, object-oriented / functional, MVC
+        Able to architect SOLID, object-oriented(OOP) / functional, MVC
         design pattern
       </li>
       <li>Meets tight and demanding deadlines under pressure</li>

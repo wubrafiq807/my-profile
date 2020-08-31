@@ -985,28 +985,6 @@ textarea {
   height: auto;
 }
 
-.grid-margin-x {
-  margin-left: -0.625rem;
-  margin-right: -0.625rem;
-}
-@media print, screen and (min-width: 40em) {
-  .grid-margin-x {
-    margin-left: -0.9375rem;
-    margin-right: -0.9375rem;
-  }
-}
-.grid-margin-x > .cell {
-  width: calc(100% - 1.25rem);
-  margin-left: 0.625rem;
-  margin-right: 0.625rem;
-}
-@media print, screen and (min-width: 40em) {
-  .grid-margin-x > .cell {
-    width: calc(100% - 1.875rem);
-    margin-left: 0.9375rem;
-    margin-right: 0.9375rem;
-  }
-}
 .grid-margin-x > .auto {
   width: auto;
 }

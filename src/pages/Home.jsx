@@ -2,18 +2,16 @@ import React from "react";
 import Contract from "./Contract.jsx";
 
 const Home = () => (
-  <div>
+  <>
     <h1 className="title is-1">ABOUT ME</h1>
-    <p className="intro long">
-      <span className="intro-text">Hello, My name is Md Rafiqul Islam</span>
-      <span className="intro-copy">
-        I'm a Full-Stack Developer(JavaScript,PHP,java,Python). I have up to 4
-        years developing experience on web and mobile application. I love
-        building unique, efficient site and passionate about writing clean code.
-      </span>
+    <p className="">
+      Hello, My name is Md Rafiqul Islam I'm a Full-Stack
+      Developer(JavaScript,PHP,java,Python). I have up to 4 years developing
+      experience on web and mobile application. I love building unique,
+      efficient site and passionate about writing clean code.
     </p>
     <Contract />
-  </div>
+  </>
 );
 
 export default Home;

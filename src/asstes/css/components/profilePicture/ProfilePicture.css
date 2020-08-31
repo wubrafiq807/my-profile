@@ -20,17 +20,6 @@
 .intro.short span {
   display: block;
 }
-
-.intro.long {
-  font-size: 24px;
-}
-.intro.long .intro-text {
-  display: block;
-}
-.intro.long .intro-copy {
-  font-size: 20px;
-}
-
 .keep-in-touch {
   margin: 0 auto 25px;
   width: 80%;
