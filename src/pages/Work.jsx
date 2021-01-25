@@ -12,12 +12,31 @@ import fryer from "../asstes/img/fryer.jpg";
 import hrm from "../asstes/img/hrm.png";
 import wireHouse from "../asstes/img/wireHouse.jpg";
 import smartScooter from "../asstes/img/smartscooter.jpg";
+import nitssu from "../asstes/img/nitssu.png";
+import tokushimaru from "../asstes/img/tokushimaru.png";
+
 
 class Work extends React.Component {
   constructor() {
     super();
     this.state = {
       workedListItem: [
+	  {
+          heading: "tokushimaru.jp",
+          itemDescription:
+            "It is a Japanese portal(E-commerce system) system that`s support 100 of modules and functions like for more information https://www.tokushimaru.jp",
+          itemTools:
+            "Laravel 6, JavaScript, MySql, ES6, Bootstrap, scss, npm",
+          image: tokushimaru,
+        },
+		{
+          heading: "Nittsu System Co.Ltd",
+          itemDescription:
+            "It is a Japanese ERP system that`s support 100 of modules and functions like for more information https://www.nittsusystem.co.jp",
+          itemTools:
+            "Java 8, JPA, EJB, SQLServer,EclipseLink , TypeScript, KnouckoutJS",
+          image: nitssu,
+        },
         {
           heading: "White Box ",
           itemDescription:

@@ -14,7 +14,7 @@ class ArticleItem extends Component {
               </h2>
               <span class="article-list-item__info-separator">/</span>
               <p class="article-list-item__info1">
-                {this.props.itemDescription}
+                {this.props.itemDescription} &nbsp;
               </p>
               <span class="article-list-item__info-separator">/</span>
               <p class="article-list-item__info2">{this.props.itemTools}</p>

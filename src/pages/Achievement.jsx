@@ -5,12 +5,24 @@ import connective from "../asstes/img/connective.jpg";
 import smartscooter from "../asstes/img/smartscooter.jpg";
 import synergyInc from "../asstes/img/synergyInc.png";
 import rssoftware from "../asstes/img/rssoftware.png";
+import threesi from "../asstes/img/3si.png";
 
 const Achievement = () => (
   <div>
     <h1>ACHIEVEMENT</h1>
 
     <Card>
+      <Card.Body>
+        <Card.Text>
+          Helped <a href="https://3si.vn/en">3S Intersoft JSC</a>  Teams by guiding developers, integrating industry standards code
+          quality, testing, QA, deployment, performance and developed
+          microservices, modules that improved the company business and make the
+          company more customer focused.
+        </Card.Text>
+      </Card.Body>
+      <Card.Img variant="bottom" src={threesi} />
+    </Card>
+	<Card>
       <Card.Body>
         <Card.Text>
           Helped Information strategy and technology Vietnam-ISTVN transform

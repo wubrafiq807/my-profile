@@ -9,12 +9,12 @@ const Skills = () => (
       Strong Skills
     </h1>
     <ul>
-      <li>Java(8+)</li>
-      <li>JavaScipt, Jquery, VueJS, NuxtJS, Ajax </li>
+      <li>Java(8+), PHP</li>
+      <li>JavaScipt,TypeScript, Jquery, knockoutJS VueJS, NuxtJS, Ajax </li>
       <li>
         Styled Component HTML5, CSS3, Bootstrap, Bulma, Vuefy, Vuetify, scss
       </li>
-      <li>Springframework(MVC, boot)</li>
+      <li>Springframework(MVC, boot), Laravel</li>
       <li>MySQL, Oracle, SqlServer, sqlite</li>
       <li>CMS OpenCard</li>
       <li>
@@ -42,7 +42,7 @@ const Skills = () => (
       hands on Skills
     </h1>
     <ul>
-      <li>PHP(Mid level), Python(Mid level), GO, Node.Js, C, C++, C#</li>
+      <li>Python(Mid level), GO, Node.Js, C, C++, C#</li>
       <li>ReactJS(Mil level)</li>
       <li>Django(Mid level), Revel, Laravel(Mid level), Codeligniter(Mid level)</li>
       <li>MongoDB, postgresql</li>
