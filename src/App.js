@@ -15,7 +15,7 @@ import { BrowserRouter as Router, HashRouter, Switch, Route } from "react-router
 
 function App() {
   return (
-    <Router basename='/my-profile'>
+    <Router basename='/'>
       <div>
         <Container>
           <Row>
@@ -35,7 +35,7 @@ function App() {
           </Row>
         </Container>
       </div>
-    </HashRouter>
+    </Router>
   );
 }
 
