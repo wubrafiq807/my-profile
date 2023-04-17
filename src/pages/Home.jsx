@@ -1,5 +1,5 @@
 import React from "react";
-import Contract from "./Contract.jsx";
+import Skills from "./Skills.jsx";
 
 const Home = () => (
   <>
@@ -10,7 +10,7 @@ const Home = () => (
       experience on web and mobile application. I love building unique,
       efficient site and passionate about writing clean code.
     </p>
-    <Contract />
+    <Skills />
   </>
 );
 
