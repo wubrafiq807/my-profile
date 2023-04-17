@@ -14,6 +14,7 @@ import wireHouse from "../asstes/img/wireHouse.jpg";
 import smartScooter from "../asstes/img/smartscooter.jpg";
 import nitssu from "../asstes/img/nitssu.png";
 import tokushimaru from "../asstes/img/tokushimaru.png";
+import apple from "../asstes/img/apple.png";
 
 
 class Work extends React.Component {
@@ -21,6 +22,13 @@ class Work extends React.Component {
     super();
     this.state = {
       workedListItem: [
+        {
+          heading: "Apple Retail Tool",
+          itemDescription:"Backstage ART for Apple. I was responsible for separating the app (SPA) into three (SPA) parts (Admin, Site, CMS) .Now its faster and the user experience has been improved.PHP(Laravel), Vue (3), Nuxt js, Mysql, Mongodb, Autodesk forge,Tableau based ART 4.0 for Apple. I was leading around 10 developers here in terms of problem solvin",
+          itemTools:
+            "Laravel 9, TypeScript,Vue3,Nuxt3, MySql, Mongodb, ES6, Bootstrap, scss, npm, pnpm",
+          image: apple,
+        },
 	  {
           heading: "tokushimaru.jp",
           itemDescription:

@@ -9,7 +9,7 @@ export default class SideNavPage extends React.Component {
         <ListGroup.Item>
           <div className="profile-picture ">
             <Link to="/">
-              <img src={profile} alt="Rafiqul Islam" />
+              <img src={profile} alt="Md Rafiqul Islam" />
             </Link>
           </div>
         </ListGroup.Item>
@@ -25,11 +25,11 @@ export default class SideNavPage extends React.Component {
         <Link to="/work" className="menu-link-item">
           <ListGroup.Item className="text-left">WORk</ListGroup.Item>
         </Link>
-        <Link to="/skills" className="menu-link-item">
-          <ListGroup.Item className="text-left">SKILLS</ListGroup.Item>
-        </Link>
         <Link to="/achievement" className="menu-link-item">
           <ListGroup.Item className="text-left">ACHIEVEMENT</ListGroup.Item>
+        </Link>
+        <Link to="/skills" className="menu-link-item">
+          <ListGroup.Item className="text-left">SKILLS</ListGroup.Item>
         </Link>
         <Link to="/contract" className="menu-link-item">
           <ListGroup.Item className="text-left">CONTRACT</ListGroup.Item>

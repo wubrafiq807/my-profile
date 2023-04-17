@@ -14,7 +14,7 @@ const Skills = () => (
       <li>
         Styled Component HTML5, CSS3, Bootstrap, Bulma, Vuefy, Vuetify, scss
       </li>
-      <li>Springframework(MVC, boot), Laravel</li>
+      <li>Springframework(MVC, boot), Laravel, Codeligniter</li>
       <li>MySQL, Oracle, SqlServer, sqlite</li>
       <li>CMS OpenCard</li>
       <li>
@@ -44,7 +44,7 @@ const Skills = () => (
     <ul>
       <li>Python(Mid level), GO, Node.Js, C, C++, C#</li>
       <li>ReactJS(Mil level)</li>
-      <li>Django(Mid level), Revel, Laravel(Mid level), Codeligniter(Mid level)</li>
+      <li>Django(Mid level), Revel</li>
       <li>MongoDB, postgresql</li>
       <li>Wordpress, ZendCard(basic)</li>
       <li>Entity Framework(basic)</li>

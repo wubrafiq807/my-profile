@@ -6,15 +6,29 @@ import smartscooter from "../asstes/img/smartscooter.jpg";
 import synergyInc from "../asstes/img/synergyInc.png";
 import rssoftware from "../asstes/img/rssoftware.png";
 import threesi from "../asstes/img/3si.png";
+import softzino from "../asstes/img/softzino.png"
 
 const Achievement = () => (
   <div>
     <h1>ACHIEVEMENT</h1>
 
+   <Card>
+      <Card.Body>
+        <Card.Text>
+          Successfully separated the Backstage ART project (SPA) into three (SPA) parts
+(Admin, Site, CMS) for Apple. Now it's faster and user experience has been
+improved as well as got great client feedback that help our company <a href="https://softzino.com/" target="_blank">SOFTZINO</a>  to
+get more projects from <a href="https://apple.com/" target="_blank">Apple</a> .Successfully leading Laravel backend API team
+(ART4.0)
+        </Card.Text>
+      </Card.Body>
+      <Card.Img variant="bottom" src={softzino} />
+    </Card>
+
     <Card>
       <Card.Body>
         <Card.Text>
-          Helped <a href="https://3si.vn/en">3S Intersoft JSC</a>  Teams by guiding developers, integrating industry standards code
+          Helped <a href="https://3si.vn/en" target="_blank">3S Intersoft JSC</a>  Teams by guiding developers, integrating industry standards code
           quality, testing, QA, deployment, performance and developed
           microservices, modules that improved the company business and make the
           company more customer focused.
