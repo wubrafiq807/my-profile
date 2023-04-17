@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/my-profile/static/css/main.aadfa851.chunk.css",
+    "main.js": "/my-profile/static/js/main.8f145655.chunk.js",
+    "main.js.map": "/my-profile/static/js/main.8f145655.chunk.js.map",
+    "runtime-main.js": "/my-profile/static/js/runtime-main.4dbf26e3.js",
+    "runtime-main.js.map": "/my-profile/static/js/runtime-main.4dbf26e3.js.map",
+    "static/css/2.11829350.chunk.css": "/my-profile/static/css/2.11829350.chunk.css",
+    "static/js/2.283d90a5.chunk.js": "/my-profile/static/js/2.283d90a5.chunk.js",
+    "static/js/2.283d90a5.chunk.js.map": "/my-profile/static/js/2.283d90a5.chunk.js.map",
+    "index.html": "/my-profile/index.html",
+    "precache-manifest.1071c953b5973de1dcce72ab4e837a4b.js": "/my-profile/precache-manifest.1071c953b5973de1dcce72ab4e837a4b.js",
+    "service-worker.js": "/my-profile/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/my-profile/static/css/2.11829350.chunk.css.map",
+    "static/css/main.aadfa851.chunk.css.map": "/my-profile/static/css/main.aadfa851.chunk.css.map",
+    "static/js/2.283d90a5.chunk.js.LICENSE.txt": "/my-profile/static/js/2.283d90a5.chunk.js.LICENSE.txt",
+    "static/media/3si.png": "/my-profile/static/media/3si.cf5fc5b2.png",
+    "static/media/connective.jpg": "/my-profile/static/media/connective.a0b063dc.jpg",
+    "static/media/donkihote.png": "/my-profile/static/media/donkihote.9eb615f9.png",
+    "static/media/email.svg": "/my-profile/static/media/email.0273a537.svg",
+    "static/media/fryer.jpg": "/my-profile/static/media/fryer.5d15d75e.jpg",
+    "static/media/github.svg": "/my-profile/static/media/github.3f49cd08.svg",
+    "static/media/hrm.png": "/my-profile/static/media/hrm.461a6401.png",
+    "static/media/istvn.jpg": "/my-profile/static/media/istvn.9b1d7037.jpg",
+    "static/media/linkedin.svg": "/my-profile/static/media/linkedin.ed4cbbe3.svg",
+    "static/media/payrole.jpg": "/my-profile/static/media/payrole.8880d260.jpg",
+    "static/media/profile.jpg": "/my-profile/static/media/profile.6d949d5a.jpg",
+    "static/media/smartscooter.jpg": "/my-profile/static/media/smartscooter.9af1116e.jpg",
+    "static/media/synergyInc.png": "/my-profile/static/media/synergyInc.8f58dcba.png",
+    "static/media/twitter.svg": "/my-profile/static/media/twitter.4ba2da1a.svg",
+    "static/media/voiceRecognition.jpg": "/my-profile/static/media/voiceRecognition.476e2c0d.jpg",
+    "static/media/weeklyreport.png": "/my-profile/static/media/weeklyreport.d21b5ad3.png",
+    "static/media/whitebox-2.png": "/my-profile/static/media/whitebox-2.315f2c34.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dbf26e3.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.283d90a5.chunk.js",
+    "static/css/main.aadfa851.chunk.css",
+    "static/js/main.8f145655.chunk.js"
+  ]
+}
