@@ -11,11 +11,11 @@ import NoPageFound from "./pages/NoPageFound.jsx";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import { BrowserRouter as Router, HashRouter, Switch, Route } from "react-router-dom";
+import { Router, HashRouter, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter basename='/my-profile'>
+    <HashRouter basename='/my-profile'>
       <div>
         <Container>
           <Row>
