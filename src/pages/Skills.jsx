@@ -9,17 +9,16 @@ const Skills = () => (
       Strong Skills
     </h1>
     <ul>
-      <li>Java(8+), PHP</li>
-      <li>JavaScipt,TypeScript, Jquery, knockoutJS VueJS, NuxtJS, Ajax </li>
+      <li>Java, Springboot, PHP, Laravel, Nodejs</li>
       <li>
-        Styled Component HTML5, CSS3, Bootstrap, Bulma, Vuefy, Vuetify, scss
+        JavaScript, ReactJs, TypeScript, Lodash, Jquery, VueJS (2, 3), NuxtJS, HTML5, CSS3, Bootstrap, Bulma, Vuefy, Vuetify, scss
       </li>
-      <li>Springframework(MVC, boot), Laravel, Codeligniter</li>
-      <li>MySQL, Oracle, SqlServer, sqlite</li>
+      <li>MySQL, Oracle, SQL, SQLite, MongoDB, Redis</li>
       <li>CMS OpenCard</li>
       <li>
         Java Concurrency, Multithreading, Collection framework and Stream API
       </li>
+      <li>DevOps(CI/CD development ,gitlabCi, Apache, Nginx, Tomcat,Jboss, Docker, Vagrant, AWS</li>
       <li>WRM (Hibernate, Doma2)</li>
       <li>Version control GIT/SVN</li>
       <li>TDD, BDD, DDD, CI/CD development</li>
@@ -42,11 +41,9 @@ const Skills = () => (
       hands on Skills
     </h1>
     <ul>
-      <li>Python(Mid level), GO, Node.Js, C, C++, C#</li>
+      <li>Python(Mid level), GO, C, C++, C#</li>
       <li>ReactJS(Mil level)</li>
       <li>Django(Mid level), Revel</li>
-      <li>MongoDB, postgresql</li>
-      <li>Wordpress, ZendCard(basic)</li>
       <li>Entity Framework(basic)</li>
       <li>Android SDK</li>
       <li>NLTK(python), pydub, numpy(python)</li>

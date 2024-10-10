@@ -15,6 +15,7 @@ import smartScooter from "../asstes/img/smartscooter.jpg";
 import nitssu from "../asstes/img/nitssu.png";
 import tokushimaru from "../asstes/img/tokushimaru.png";
 import apple from "../asstes/img/apple.png";
+import gps from "../asstes/img/gps.jpg";
 
 
 class Work extends React.Component {
@@ -22,6 +23,19 @@ class Work extends React.Component {
     super();
     this.state = {
       workedListItem: [
+        {
+          heading: "Firm Management system",
+          itemDescription:"A system enable manage agriculture based firm like agro firm",
+          itemTools:
+              "PHP laravel, Java, Springboot,  MySql, Vuejs, NuxtJs"
+        },
+        {
+          heading: "Global Connect, Global Operation, Go for GPS  for IGH",
+          itemDescription:"Global connect is a shipping service middleware application integrated with DHL, Fedex, USPS, UPS , 3PL, and many more",
+          itemTools:
+              "PHP, MySql, AWS(S3, Serverless, Mysql Aurora) , ES6, Bootstrap, scss, npm, pnpm",
+          image: gps,
+        },
         {
           heading: "Apple Retail Tool",
           itemDescription:"Backstage ART for Apple. I was responsible for separating the app (SPA) into three (SPA) parts (Admin, Site, CMS) .Now its faster and the user experience has been improved.PHP(Laravel), Vue (3), Nuxt js, Mysql, Mongodb, Autodesk forge,Tableau based ART 4.0 for Apple. I was leading around 10 developers here in terms of problem solvin",
