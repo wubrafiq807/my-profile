@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a68ff5b6851a21b596e88ce2c7d6e7c4",
+    "revision": "2a7504a9479478ebfd4a0cd9efdf7f1f",
     "url": "/my-profile/index.html"
   },
   {
-    "revision": "3918f00b283fe2a98769",
+    "revision": "861097b677193ceaaf69",
     "url": "/my-profile/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "c0cc64e7f24d576bca37",
+    "revision": "2f27e9d76d82452eece7",
     "url": "/my-profile/static/css/main.aadfa851.chunk.css"
   },
   {
-    "revision": "3918f00b283fe2a98769",
-    "url": "/my-profile/static/js/2.1a92fc94.chunk.js"
+    "revision": "861097b677193ceaaf69",
+    "url": "/my-profile/static/js/2.660e26f0.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/my-profile/static/js/2.1a92fc94.chunk.js.LICENSE.txt"
+    "url": "/my-profile/static/js/2.660e26f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0cc64e7f24d576bca37",
-    "url": "/my-profile/static/js/main.f4f989ec.chunk.js"
+    "revision": "2f27e9d76d82452eece7",
+    "url": "/my-profile/static/js/main.75f6ed50.chunk.js"
   },
   {
     "revision": "06018bee6432144686de",
@@ -44,12 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-profile/static/media/email.0273a537.svg"
   },
   {
+    "revision": "8a7108652589c4b3cbdd364b6d1e18bb",
+    "url": "/my-profile/static/media/firm.8a710865.jpg"
+  },
+  {
     "revision": "5d15d75e7b3ad1d25766f3f79a424bf1",
     "url": "/my-profile/static/media/fryer.5d15d75e.jpg"
   },
   {
     "revision": "3f49cd08fe1bbfb86ea75a0cdb911ba7",
     "url": "/my-profile/static/media/github.3f49cd08.svg"
+  },
+  {
+    "revision": "2a8c069bae26c0848e22c3602d02a8cd",
+    "url": "/my-profile/static/media/gps.2a8c069b.jpg"
   },
   {
     "revision": "461a64012e89d7f6b4b973c1a5d4d5f5",
@@ -68,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-profile/static/media/payrole.8880d260.jpg"
   },
   {
-    "revision": "e44ac743199360658ad7d1d7fa432167",
-    "url": "/my-profile/static/media/profile.e44ac743.jpg"
+    "revision": "fc52436c075dd7bf95e9ad61744f2b8f",
+    "url": "/my-profile/static/media/profile.fc52436c.jpg"
   },
   {
     "revision": "9af1116ea160c3afa6bfc9bb66f9d2da",
